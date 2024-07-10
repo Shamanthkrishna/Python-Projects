@@ -4,4 +4,7 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 # Projects Included:
 1. Number Guessing Game:
-* A simple number guessing game where the player tries to guess a randomly generated number between 1 and 50.
+  * A simple number guessing game where the player tries to guess a randomly generated number between 1 and 50.
+
+2. Acronym Generator:
+  * This Python script generates an acronym from a user-provided phrase by taking the first letter of each word and converting it to uppercase. The user can create multiple acronyms in one session.
