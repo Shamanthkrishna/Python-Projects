@@ -18,5 +18,7 @@ Welcome to my Python Projects repository! This repository contains a collection 
   
 5. **Age Calculator**
    - A Python script that calculates your approximate age based on the birthdate you enter, allowing you to try again if needed.
-
+  
+6. **Execution Time Calculator**
+   - A Python script that calculates and displays the execution time for generating an acronym from the phrase "Data Base Management System".
 
