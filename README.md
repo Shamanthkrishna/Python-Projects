@@ -25,3 +25,7 @@ Welcome to my Python Projects repository! This repository contains a collection 
 7. **Automatic Email Sender**
    - A Python script that allows users to send automated emails using Gmail's SMTP server after entering their name and email address.
 
+
+
+**Credits**
+These project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
