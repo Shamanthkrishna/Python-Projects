@@ -22,3 +22,6 @@ Welcome to my Python Projects repository! This repository contains a collection 
 6. **Execution Time Calculator**
    - A Python script that calculates and displays the execution time for generating an acronym from the phrase "Data Base Management System".
 
+7. **Automatic Email Sender**
+   - A Python script that allows users to send automated emails using Gmail's SMTP server after entering their name and email address.
+
