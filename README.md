@@ -8,3 +8,6 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 2. Acronym Generator:
   * This Python script generates an acronym from a user-provided phrase by taking the first letter of each word and converting it to uppercase. The user can create multiple acronyms in one session.
+
+3. Number Swapper:
+   * This Python script swaps two user-provided numbers and displays the results before and after swapping.
