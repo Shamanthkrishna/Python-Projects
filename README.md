@@ -28,4 +28,4 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 
 **Credits**
-These project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
+- These project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
