@@ -11,3 +11,6 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 3. **Number Swapper**:
    * This Python script swaps two user-provided numbers and displays the results before and after swapping.
+
+4. **Password Authentication System**:
+   * This Python script provides a basic secure login system with username validation, password attempts limit, and feedback on login success or failure.
