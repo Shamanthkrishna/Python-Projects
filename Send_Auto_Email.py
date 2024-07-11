@@ -15,7 +15,14 @@ def auto_email():
     print("Email Sent!")
 
 
-auto_email()
+while True:
+    auto_email()
+    try_again = input("Do you want to Send Again? (y/n):").lower()
+    if try_again != "y":
+        break
+
+print("Thanks for Using Auto Mail Sender Bot")
+input("Press any key to exit....")
 
 # OUTPUT
 
