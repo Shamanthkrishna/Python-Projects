@@ -25,3 +25,4 @@ while True:
         break
 
 print("Thanks for Playing")
+input("Press any key to exit....")
