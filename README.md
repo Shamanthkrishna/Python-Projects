@@ -25,6 +25,8 @@ Welcome to my Python Projects repository! This repository contains a collection 
 7. **Automatic Email Sender**
    - A Python script that allows users to send automated emails using Gmail's SMTP server after entering their name and email address.
 
+8. **Find Missing Number**
+   - This Python script allows users to input a sequence of numbers, identifies the missing numbers in the sequence, and displays a combined list of the original and missing numbers, providing an option to repeat the process.
 
 
 **Credits**
