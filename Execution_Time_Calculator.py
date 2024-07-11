@@ -14,3 +14,4 @@ execution_time = end - start
 
 print(f"Generated Acronym: {a}")
 print(f"Execution Time is {execution_time} seconds")
+input("Press any key to exit....")
