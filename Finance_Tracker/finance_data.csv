@@ -1,0 +1,33 @@
+date,amount,category,description
+01-07-2024,1000,Credit,Salary
+02-07-2024,50,Debit,Groceries
+03-07-2024,150,Debit,Utilities
+04-07-2024,200,Credit,Freelance Work
+05-07-2024,75,Debit,Restaurant
+06-07-2024,100,Debit,Transport
+07-07-2024,500,Credit,Bonus
+08-07-2024,30,Debit,Snacks
+09-07-2024,250,Credit,Stock Dividends
+10-07-2024,90,Debit,Entertainment
+11-07-2024,60,Debit,Coffee
+12-07-2024,120,Debit,Gas
+13-07-2024,80,Debit,Books
+14-07-2024,150,Debit,Clothing
+15-07-2024,1100,Credit,Salary
+16-07-2024,40,Debit,Stationery
+17-07-2024,180,Debit,Utilities
+18-07-2024,250,Credit,Freelance Work
+19-07-2024,70,Debit,Restaurant
+20-07-2024,130,Debit,Transport
+21-07-2024,600,Credit,Bonus
+22-07-2024,35,Debit,Snacks
+23-07-2024,300,Credit,Stock Dividends
+24-07-2024,100,Debit,Entertainment
+25-07-2024,55,Debit,Coffee
+26-07-2024,140,Debit,Gas
+27-07-2024,90,Debit,Books
+28-07-2024,170,Debit,Clothing
+29-07-2024,1200,Credit,Salary
+30-07-2024,45,Debit,Stationery
+31-07-2024,190,Debit,Utilities
+20-07-2023,124.0,Debit,Groceries
