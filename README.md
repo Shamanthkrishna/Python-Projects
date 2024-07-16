@@ -28,6 +28,10 @@ Welcome to my Python Projects repository! This repository contains a collection 
 8. **Find Missing Number**
    - This Python script allows users to input a sequence of numbers, identifies the missing numbers in the sequence, and displays a combined list of the original and missing numbers, providing an option to repeat the process.
 
+9. **Finance Tracker**
+    - A Python application to manage personal finances, allowing users to record transactions, view summaries, and visualize income versus expenses over time.
 
+  
 **Credits**
-- These project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
+- Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
+- Finance Tracker Project was inspired by the tutorial from Tech With Tim on YouTube: [Finance Tracker Tutorial](https://www.youtube.com/watch?v=Dn1EjhcQk64).
