@@ -31,6 +31,8 @@ Welcome to my Python Projects repository! This repository contains a collection 
 9. **Finance Tracker**
     - A Python application to manage personal finances, allowing users to record transactions, view summaries, and visualize income versus expenses over time.
 
+10. **Least Common Multiple Calculator**
+    - Calculates the least common multiple (LCM) of two integers entered by the user.
   
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
