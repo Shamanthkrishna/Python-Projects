@@ -37,7 +37,10 @@ Welcome to my Python Projects repository! This repository contains a collection 
 11. **Cafe Ordering System**
     - This Python script enables customers to place orders at Cafe Mangalore. It provides an interactive menu selection, computes order totals, applies discounts, and offers the option to generate PDF receipts. The order history is saved in a CSV file for future reference.
 
-  
+12. **Amazon Data Scraper**
+    - A web scraper that extracts titles, prices, ratings, review counts, and availability of gaming laptops from Amazon India and saves the data to a CSV file.
+   
+      
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
 - Finance Tracker Project was inspired by the tutorial from Tech With Tim on YouTube: [Finance Tracker Tutorial](https://www.youtube.com/watch?v=Dn1EjhcQk64).
