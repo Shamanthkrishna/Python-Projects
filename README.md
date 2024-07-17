@@ -33,6 +33,10 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 10. **Least Common Multiple Calculator**
     - Calculates the least common multiple (LCM) of two integers entered by the user.
+
+11. **Cafe Ordering System**
+    - This Python script enables customers to place orders at Cafe Mangalore. It provides an interactive menu selection, computes order totals, applies discounts, and offers the option to generate PDF receipts. The order history is saved in a CSV file for future reference.
+
   
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
