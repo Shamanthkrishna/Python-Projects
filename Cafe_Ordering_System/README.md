@@ -1,4 +1,4 @@
-# Cafe Mangalore Ordering System
+# Cafe Ordering System
 
 ## Overview:
 This Python script enables customers to place orders at Cafe Mangalore. It provides an interactive menu selection, computes order totals, applies discounts, and offers the option to generate PDF receipts. The order history is saved in a CSV file for future reference.
