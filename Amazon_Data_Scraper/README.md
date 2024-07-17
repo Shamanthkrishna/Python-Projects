@@ -14,7 +14,7 @@ This project is a web scraper designed to extract details of gaming laptops from
       python scraper.py
 2.  The script will print status updates as it processes each product link.
 3.  The extracted data will be saved to amazon_data.csv.
-4.  
+    
 ## Code Overview
 - get_title(soup): Extracts the product title.
 - get_price(soup): Extracts the product price.
