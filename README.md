@@ -40,9 +40,11 @@ Welcome to my Python Projects repository! This repository contains a collection 
 12. **Amazon Data Scraper**
     - A web scraper that extracts titles, prices, ratings, review counts, and availability of gaming laptops from Amazon India and saves the data to a CSV file.
    
-
 13. **Simple Calculator**
     - This is a simple calculator application built using Python's `tkinter` library for creating graphical user interfaces. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. It features a user-friendly interface with buttons for digits, operations, and a clear button.
+   
+14. **Registration Form**
+    - This application is a user-friendly registration form built using Python with Tkinter for the GUI and tkcalendar for date selection. It allows users to input personal, professional, and educational information, and saves the data to a CSV file upon submission.
    
       
 **Credits**
