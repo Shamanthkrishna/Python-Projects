@@ -45,7 +45,12 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 14. **Registration Form**
     - This application is a user-friendly registration form built using Python with Tkinter for the GUI and tkcalendar for date selection. It allows users to input personal, professional, and educational information, and saves the data to a CSV file upon submission.
+
+15. **Extract Text from PDF**
+    - **PDF Text Extractor** is a Python project that uses PyPDF2 to extract text from PDF files. It shows how to open a PDF, read its contents, and extract text from a specified page efficiently.
    
+16. **Reverse a String**
+    - This script defines a function to reverse a given string. It then reverses and prints the string.
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
