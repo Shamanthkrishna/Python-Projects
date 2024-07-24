@@ -51,6 +51,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 16. **Reverse a String**
     - This script defines a function to reverse a given string. It then reverses and prints the string.
+
+17. **Number to Words Converter**
+    - Converts integer numbers into their English word representation, handling units, tens, hundreds, and large numbers. Includes support for negative numbers and formatting for various number sizes.
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
