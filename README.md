@@ -54,6 +54,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 17. **Number to Words Converter**
     - Converts integer numbers into their English word representation, handling units, tens, hundreds, and large numbers. Includes support for negative numbers and formatting for various number sizes.
+   
+18. **Number Base Converter**
+    - A simple tool for converting between decimal and binary number systems. Users can choose to convert a decimal number to binary or a binary number to decimal, with an option to exit the program.
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
