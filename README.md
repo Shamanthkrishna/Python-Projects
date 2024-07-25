@@ -60,6 +60,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 19. **Internet Connectivity Test**
     - Tests internet connectivity to multiple URLs with retries. Logs the success or failure of each attempt along with response times or error messages.
+   
+20. **Battery Status Logger and Notifier**
+    - Monitors battery percentage and charging status, logs data to a file, and sends a notification if the battery falls below 30% and is not plugged in.
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
