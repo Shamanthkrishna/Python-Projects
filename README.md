@@ -57,6 +57,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 18. **Number Base Converter**
     - A simple tool for converting between decimal and binary number systems. Users can choose to convert a decimal number to binary or a binary number to decimal, with an option to exit the program.
+
+19. **Internet Connectivity Test**
+    - Tests internet connectivity to multiple URLs with retries. Logs the success or failure of each attempt along with response times or error messages.
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
