@@ -1,0 +1,2 @@
+2024-07-25 20:35:17 - Battery: 96%, Plugged In: True
+2024-07-25 20:35:26 - Battery: 96%, Plugged In: True

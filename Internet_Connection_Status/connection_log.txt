@@ -1,0 +1,5 @@
+Success: Connected to https://www.google.com/ in 0.69 seconds
+Failure: Could not connect to https://www.amazon.in/
+Failure: Could not connect to https://www.amazon.in/
+Success: Connected to https://www.amazon.in/ in 0.61 seconds
+Success: Connected to https://www.github.com/ in 0.85 seconds
