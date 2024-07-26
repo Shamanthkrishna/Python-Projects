@@ -63,6 +63,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 20. **Battery Status Logger and Notifier**
     - Monitors battery percentage and charging status, logs data to a file, and sends a notification if the battery falls below 30% and is not plugged in.
+   
+21. **Morse Code Encoder and Decoder**
+    - A Python program that encodes messages into Morse code and decodes Morse code back into plain text. It handles unknown characters and provides an interactive user interface for encoding and decoding operations.
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
