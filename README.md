@@ -66,6 +66,10 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 21. **Morse Code Encoder and Decoder**
     - A Python program that encodes messages into Morse code and decodes Morse code back into plain text. It handles unknown characters and provides an interactive user interface for encoding and decoding operations.
+   
+22. **Password Generator**
+    - A Tkinter-based password generator that allows users to specify password length and include letters, numbers, and symbols. It evaluates and displays password strength, provides suggestions for improvement, saves each generated password along with its strength and suggestions to a text file, and maintains a history of generated passwords within the GUI.
+      
       
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
