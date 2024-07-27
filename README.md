@@ -74,3 +74,4 @@ Welcome to my Python Projects repository! This repository contains a collection 
 **Credits**
 - Some project ideas were inspired by examples found on Aman Kharwal's The Clever Programmer Website(https://thecleverprogrammer.com/).
 - Finance Tracker Project was inspired by the tutorial from Tech With Tim on YouTube: [Finance Tracker Tutorial](https://www.youtube.com/watch?v=Dn1EjhcQk64).
+- Some portions of this project, including code generation and error checking, were assisted by ChatGPT, an AI language model developed by OpenAI.
