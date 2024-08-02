@@ -64,6 +64,11 @@ This project is currently in Phase 1. The next phase includes the development of
    ```bash
    python main.py
    ```
+   
+## Credits:
+
+**[Guided Project]((https://www.youtube.com/watch?v=KDIt2YO6euw))**: This project is based on a guided tutorial from YouTube, which initially used Python and SQL. I adapted it to use Python and MongoDB, which introduced additional challenges and offered a more flexible database solution.
+**ChatGPT**: For assistance with documentation, commenting code, and formatting the README file.
 
 ## Contributing
 
