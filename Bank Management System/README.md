@@ -30,7 +30,7 @@ The Bank Management System is a comprehensive banking application designed to ma
 
 ## Project Adaptation and Database Choice
 
-This project is based on a guided tutorial from YouTube, which originally used Python and SQL. I chose to adapt the project to use Python and MongoDB for several reasons:
+This project is based on a [guided tutorial](https://www.youtube.com/watch?v=KDIt2YO6euw) from YouTube, which originally used Python and SQL. I chose to adapt the project to use Python and MongoDB for several reasons:
 
 - **Flexibility:** MongoDB's document-oriented database structure offers greater flexibility in handling varying data structures and schemas. This is particularly useful for evolving projects where the data model might change over time.
 
