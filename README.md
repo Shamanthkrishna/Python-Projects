@@ -69,6 +69,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 22. **Password Generator**
     - A Tkinter-based password generator that allows users to specify password length and include letters, numbers, and symbols. It evaluates and displays password strength, provides suggestions for improvement, saves each generated password along with its strength and suggestions to a text file, and maintains a history of generated passwords within the GUI.
+   
+23. **Bank Management System**
+    - The Bank Management System is a comprehensive banking application designed to manage customer accounts, transactions, and admin functionalities. This project serves as a backend system for a bank, allowing users to perform various banking operations such as deposits, withdrawals, transfers, and viewing transaction histories. The system is implemented using Python and MongoDB, which provides a scalable and flexible database solution.
       
       
 **Credits**
