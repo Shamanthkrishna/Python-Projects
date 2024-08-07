@@ -72,6 +72,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 23. **Bank Management System**
     - The Bank Management System is a comprehensive banking application designed to manage customer accounts, transactions, and admin functionalities. This project serves as a backend system for a bank, allowing users to perform various banking operations such as deposits, withdrawals, transfers, and viewing transaction histories. The system is implemented using Python and MongoDB, which provides a scalable and flexible database solution.
+   
+25. **PhoneBook Application**
+    - This is a simple command-line PhoneBook application written in Python. It allows users to add contacts, view contact details, load contacts to a CSV file, and import contacts from a CSV file.
       
       
 **Credits**
