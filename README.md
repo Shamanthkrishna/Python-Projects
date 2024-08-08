@@ -75,6 +75,9 @@ Welcome to my Python Projects repository! This repository contains a collection 
    
 25. **PhoneBook Application**
     - This is a simple command-line PhoneBook application written in Python. It allows users to add contacts, view contact details, load contacts to a CSV file, and import contacts from a CSV file.
+
+26. **YouTube Channel Data Extractor**
+    - The YouTube Channel Data Extractor is a Python application that allows users to extract and analyze data from YouTube channels based on video URLs. This tool uses the PyTube library to fetch channel information and the Google YouTube API to retrieve channel statistics. Users can also export the collected data to a CSV file for further analysis.
       
       
 **Credits**
