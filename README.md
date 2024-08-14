@@ -78,6 +78,10 @@ Welcome to my Python Projects repository! This repository contains a collection 
 
 26. **YouTube Channel Data Extractor**
     - The YouTube Channel Data Extractor is a Python application that allows users to extract and analyze data from YouTube channels based on video URLs. This tool uses the PyTube library to fetch channel information and the Google YouTube API to retrieve channel statistics. Users can also export the collected data to a CSV file for further analysis.
+   
+27. **Phone Number Details Parser**
+    - This Python project parses and extracts detailed information from phone numbers, including the formatted number, time zone, carrier, region, country, and number type. The results are saved to a CSV file, appending new entries without overwriting previous data.
+
       
       
 **Credits**
